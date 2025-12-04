@@ -18,7 +18,7 @@ DB/DS/ML
 
 Les institutions bancaires jouent un rôle fondamental dans les économies modernes en déterminant l'accès au crédit pour les particuliers et les entreprises. Cette décision repose sur des algorithmes de notation de crédit qui évaluent la probabilité de défaut de paiement d'un emprunteur.
 
-###1.2 Problématique
+### 1.2 Problématique
 Le défi consiste à améliorer les modèles existants de credit scoring pour prédire avec précision la probabilité qu'un individu connaisse des difficultés financières dans les deux années suivant l'octroi d'un crédit. Une prédiction erronée peut entraîner soit des pertes financières importantes pour la banque (faux négatifs), soit le refus injustifié de crédit à des clients solvables (faux positifs).
 
 ### 1.3 Objectifs
