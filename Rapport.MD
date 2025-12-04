@@ -1,6 +1,9 @@
 # Rapport d'Analyse : Prédiction du Risque de Défaut de Crédit
 CHERESTAL Deborah Nativa 
 22008149
+
+![Deborah Nativa Cherestal](![WhatsApp Image 2025-10-30 at 11 50 17](https://github.com/user-attachments/assets/1a60df9d-1939-410d-ba24-a93462ac4deb)
+) 
 ## 1. Introduction
 
 ### 1.1 Contexte
